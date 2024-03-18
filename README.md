@@ -2,6 +2,7 @@ This research project investigates the use of machine learning approaches to ide
 The work makes use of a dataset that contains pictures that depict seven different emotions, making it possible to create models for the analysis and recognition of emotions.
 
 Methodology :
+
 The methodology involves the following key steps:
 Data Collection and Preparation: Utilizing a dataset comprising images representing seven distinct emotions.
 Face Detection: Employing Convolutional Neural Network (CNN) algorithms including VGG16, ResNet, and Vision Transformers for accurate face detection.
@@ -9,6 +10,7 @@ Emotion Recognition: Implementing machine learning models to detect and classify
 Analysis and Insights: Conducting qualitative and quantitative analysis of human communication based on the detected emotions.
 
 Implementation Details :
+
 Algorithms: CNN, VGG16, ResNet, Vision Transformers.
 Programming Language: Python
 Libraries Used: TensorFlow, Keras, OpenCV.
